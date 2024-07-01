@@ -1,0 +1,109 @@
+{
+    "attachment": {
+        "clickToDownload": "İndirmek için tıklayın",
+        "noAttachment": "Ek yok"
+    },
+    "bookmark": {
+        "noBookmark": "Yer imi yok"
+    },
+    "core": {
+        "askingPassword": {
+            "requirePasswordToOpen": "Bu belgeyi açmak için bir parola gerekiyor",
+            "submit": "Gönder"
+        },
+        "wrongPassword": {
+            "submit": "Gönder",
+            "tryAgain": "Parola yanlış. Lütfen tekrar deneyin"
+        },
+        "pageLabel": "Sayfa {{pageIndex}}"
+    },
+    "defaultLayout": {
+        "attachment": "Ek",
+        "bookmark": "Yer imi",
+        "thumbnail": "Küçük resim"
+    },
+    "download": {
+        "download": "İndir"
+    },
+    "drop": {
+        "dragDropFile": "PDF belgesini buraya sürükleyip bırakın"
+    },
+    "fullScreen": {
+        "enterFullScreen": "Tam ekran",
+        "exitFullScreen": "Tam ekrandan çık"
+    },
+    "localeSwitcher": {
+        "switchLocale": "Dil değiştir"
+    },
+    "open": {
+        "openFile": "Dosya aç"
+    },
+    "pageNavigation": {
+        "enterPageNumber": "Bir sayfa numarası girin",
+        "goToFirstPage": "İlk sayfa",
+        "goToLastPage": "Son sayfa",
+        "goToNextPage": "Sonraki sayfa",
+        "goToPreviousPage": "Önceki sayfa"
+    },
+    "print": {
+        "cancel": "İptal",
+        "preparingDocument": "Belge hazırlanıyor...",
+        "print": "Yazdır"
+    },
+    "properties": {
+        "author": "Yazar",
+        "close": "Kapat",
+        "creationDate": "Oluşturma tarihi",
+        "creator": "Oluşturan",
+        "fileName": "Dosya adı",
+        "fileSize": "Dosya boyutu",
+        "keywords": "Anahtar kelimeler",
+        "modificationDate": "Değiştirme tarihi",
+        "pageCount": "Sayfa sayısı",
+        "pdfProducer": "PDF üreticisi",
+        "pdfVersion": "PDF sürümü",
+        "showProperties": "Özellikleri göster",
+        "subject": "Konu",
+        "title": "Başlık"
+    },
+    "rotate": {
+        "rotateBackward": "Saat yönünün tersine döndür",
+        "rotateForward": "Saat yönünde döndür"
+    },
+    "scrollMode": {
+        "horizontalScrolling": "Yatay kaydırma",
+        "verticalScrolling": "Dikey kaydırma",
+        "wrappedScrolling": "Sarma kaydırma"
+    },
+    "search": {
+        "close": "Kapat",
+        "enterToSearch": "Arama yapmak için Enter'a basın",
+        "matchCase": "Büyük/küçük harf eşleştir",
+        "nextMatch": "Sonraki eşleşme",
+        "previousMatch": "Önceki eşleşme",
+        "search": "Ara",
+        "wholeWords": "Tam kelimeler"
+    },
+    "selectionMode": {
+        "handTool": "El aracı",
+        "textSelectionTool": "Metin seçim aracı"
+    },
+    "theme": {
+        "switchDarkTheme": "Koyu temaya geç",
+        "switchLightTheme": "Açık temaya geç"
+    },
+    "thumbnail": {
+        "thumbnailLabel": "Sayfa {{pageIndex}} küçük resmi"
+    },
+    "toolbar": {
+        "moreActions": "Daha fazla işlem"
+    },
+    "zoom": {
+        "actualSize": "Gerçek boyut",
+        "pageFit": "Sayfa boyutu",
+        "pageWidth": "Sayfa genişliği",
+        "zoomDocument": "Belgeyi yakınlaştır",
+        "zoomIn": "Yakınlaştır",
+        "zoomOut": "Uzaklaştır"
+    }
+}
